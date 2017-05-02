@@ -15,8 +15,6 @@ html, body {
   left: 0;
   overflow: hidden;
   will-change: transform;
-}
-#container.hidden {
   opacity: 0;
 }
 #content {

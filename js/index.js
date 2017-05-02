@@ -18,8 +18,6 @@ var useDebounce      = true, // Boolean : activate or desactivate debounce anima
     zone1 = document.getElementById("zone1");
     next = document.getElementById("next");
 
-
-
 startup();
 
 function startup() {
